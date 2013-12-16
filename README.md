@@ -27,7 +27,7 @@ Installs Node.js.
 Testing
 -------
 
-[![Build Status](https://travis-ci.org/mlafeldt/skeleton-cookbook.png?branch=master)](https://travis-ci.org/mlafeldt/skeleton-cookbook)
+![Build Status](https://travis-ci.org/darron/nodejs-cookbook.png?branch=master)](https://travis-ci.org/darron/nodejs-cookbook)
 
 The cookbook provides the following Rake tasks for testing:
 
